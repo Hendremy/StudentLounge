@@ -1,0 +1,9 @@
+[submodule "StudentLounge-Mobile"]
+	path = StudentLounge-Mobile
+	url = https://github.com/Hendremy/StudentLounge-Mobile
+[submodule "StudentLounge-Web"]
+	path = StudentLounge-Web
+	url = https://github.com/Hendremy/StudentLounge-Web
+[submodule "StudentLounge-Backend"]
+	path = StudentLounge-Backend
+	url = https://github.com/Hendremy/StudentLounge-Backend
